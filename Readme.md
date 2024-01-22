@@ -3,7 +3,7 @@
 This Weather App is a web application that provides real-time weather data, currency exchange rates, and random trivia for a specified city. The app uses the OpenWeatherMap API, ExchangeRate API, and Pixabay API to fetch weather information, currency rates, and city images, respectively.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/YourUsername/Weather-App`
+1. Clone the repository: `git clone https://github.com/Saiarenn/Weather-App`
 2. Navigate to the project folder: `cd Weather-App`
 3. Install dependencies: `npm install`
 4. Run the server: `npm start`
