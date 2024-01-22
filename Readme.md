@@ -1,6 +1,6 @@
 # Weather App
 
-This Weather App is a web application that provides real-time weather data, currency exchange rates, and random trivia for a specified city. The app uses the OpenWeatherMap API, ExchangeRate API, and Pixabay API to fetch weather information, currency rates, and city images, respectively.
+This Weather App is a web application that provides real-time weather data, and currency exchange rates for a specified city. The app uses the OpenWeatherMap API, ExchangeRate API, and Pixabay API to fetch weather information, currency rates, and city images, respectively.
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/Saiarenn/Weather-App`
