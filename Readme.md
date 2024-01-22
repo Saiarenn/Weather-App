@@ -32,12 +32,3 @@ The server runs on port 3000. You can access the Weather App by navigating to `h
 ## Additional Information
 - The Leaflet map displays weather markers for each city requested.
 - Currency conversion is based on the ExchangeRate API.
-
-## Contributing
-If you would like to contribute to the Weather App project, please follow these steps:
-1. Fork the repository on GitHub.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your changes: `git checkout -b feature/new-feature`
-4. Make your changes and commit them: `git commit -m "Add new feature"`
-5. Push your changes to your forked repository: `git push origin feature/new-feature`
-6. Open a pull request on the original repository.
